@@ -1,5 +1,5 @@
 Dpath = '../../KTDataset'
-
+#一共包括6个数据集
 datasets = {
     'assist2009' : 'assist2009',
     'assist2015' : 'assist2015',
@@ -9,7 +9,7 @@ datasets = {
     'synthetic' : 'synthetic'
 }
 
-# question number of each dataset
+# 数据集里面的题目数量
 numbers = {
     'assist2009' : 124,  
     'assist2015' : 100,
